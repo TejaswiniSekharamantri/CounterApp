@@ -76,3 +76,9 @@
 .App__buttons > button:active {
   outline: 1px solid #fff;
 }
+.tableContent{
+  max-width: 90%;
+  margin-top: 5%;
+  margin-left: auto;
+  margin-right: auto;
+}
